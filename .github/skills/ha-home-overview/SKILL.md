@@ -1,6 +1,6 @@
 ---
 name: ha-home-overview
-description: Get a full status overview of the home: active devices, lights, climate, energy, alerts, and entity counts. Use when asked "what's happening at home", "house status", "what's on", or for a general home summary.
+description: "Get a full status overview of the home: active devices, lights, climate, energy, alerts, and entity counts. Use when asked \"what's happening at home\", \"house status\", \"what's on\", or for a general home summary."
 ---
 
 Use this skill to give the user a comprehensive, readable summary of the current state of their home.
@@ -8,18 +8,17 @@ Use this skill to give the user a comprehensive, readable summary of the current
 ## House Context
 
 The home has the following rooms (Lithuanian names with English equivalents):
-- **Darbo kambaris** (office/work room)
-- **Dukros kambaris** (daughter's room)
-- **Sūnaus kambaris** / Sunaus kambaris (son's room)
-- **Svetainė** / svetaine (living room)
 - **Virtuvė** / virtuve (kitchen)
-- **Miegamasis** (master bedroom)
-- **Tėvų vonia** (parents' bathroom)
-- **Koridorius** (corridor/hallway)
-- **Garažas** (garage)
-- **Barboros kambaris** (Barbora's room)
-- **Alex kambaris** (Alex's room)
-- **Tambūras** (entrance hall)
+- **Svetainė** / svetaine (living room)
+- **Darbo kambaris** (office/work room) — upper right wing
+- **Tėvų vonia** (parents' bathroom) — small room, upper right
+- **Tėvų miegamasis** (parents' bedroom) — large room, upper right
+- **Koridorius** (corridor/hallway) — left vertical strip
+- **Garažas** (garage) — lower left
+- **Skalbykla** (laundry room) — lower left, beside garage
+- **WC mažas** (small WC/toilet) — lower centre
+- **Dukros / Barboros kambaris** (daughter Barbora's room) — lower centre
+- **Alexo / Sūnaus kambaris** (son Alex's room) — lower right centre
 
 Key integrations: KNX (lights, heating), Gree (AC), Samsung TVs, Denon/HEOS audio, Solis solar+battery, Nordpool electricity pricing, Hikvision cameras, Roborock vacuum, B-Hyve irrigation.
 

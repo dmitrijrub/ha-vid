@@ -11,8 +11,13 @@ Use this skill to control and query the Roborock S8 MaxV Ultra robot vacuum.
 - **Entity:** `vacuum.s8_maxv_ultra` (search with `ha_search_entities` query="S8" domain_filter="vacuum")
 - **Integration:** `roborock`
 - **Known rooms/zones (as Roborock segments):**
-  - Living area (svetainė)
-  - Pet area
+  - Svetainė (living room)
+  - Virtuvė (kitchen)
+  - Tėvų miegamasis (parents' bedroom)
+  - Darbo kambaris (office)
+  - Dukros / Barboros kambaris
+  - Alexo / Sūnaus kambaris
+  - Koridorius (corridor)
   - Other zones visible as button entities: `button.s8_maxv_ultra_*`
 
 ## Workflow

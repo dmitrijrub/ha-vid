@@ -14,9 +14,9 @@ Use this skill to control and query window covers (blinds and roman blinds) thro
 
 | Room | Cover entity (approximate name) |
 |---|---|
-| Miegamasis (master bedroom) | Miegamojo užuolaida |
-| Sūnaus kambaris (son's room) | Sūnaus kamb. užuolaida |
-| Dukros kambaris (daughter's room) | Dukros kamb. užuolaida |
+| Tėvų miegamasis (parents' bedroom) | Miegamojo užuolaida |
+| Alexo / Sūnaus kambaris (son's room) | Sūnaus kamb. užuolaida |
+| Dukros / Barboros kambaris (daughter's room) | Dukros kamb. užuolaida |
 | Svetainė (living room) | Svetainės užuolaida, Svetainės užuolaida prie virtuvės |
 | Virtuvė (kitchen) | Virtuvės užuolaida, Virtuvės romanetė |
 | Darbo kambaris (office) | Darbo kamb. romanetė |

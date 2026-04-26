@@ -11,10 +11,10 @@ Use this skill to control and query media players throughout the home.
 |---|---|---|
 | svetaine (QE65QN90AATXXH) | Svetainė (living room) | Samsung TV |
 | virtuve (QE50LS03AAUXXH) | Virtuvė (kitchen) | Samsung TV |
-| miegamasis (UE55AU9072UXXH) | Miegamasis (bedroom) | Samsung TV |
+| miegamasis (UE55AU9072UXXH) | Tėvų miegamasis (parents' bedroom) | Samsung TV |
 | Denon Centras | Central / living room | Denon AVR receiver |
-| Denon Home 150 Sunaus kamb. | Sūnaus kambaris | HEOS speaker |
-| Denon Home 150 Dukros kamb. | Dukros kambaris | HEOS speaker |
+| Denon Home 150 Sunaus kamb. | Alexo / Sūnaus kambaris | HEOS speaker |
+| Denon Home 150 Dukros kamb. | Dukros / Barboros kambaris | HEOS speaker |
 | Spotify | Whole home | Spotify Connect |
 | Telia TV 650 | — | Android TV (ignored) |
 

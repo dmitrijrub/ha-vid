@@ -1,6 +1,6 @@
 ---
 name: ha-lights
-description: Control lights in the home by room or area. Use when asked to turn on/off, dim, brighten, set brightness, or check the state of lights. Handles all rooms including Darbo kambaris, Dukros kambaris, Sūnaus kambaris, Svetainė, Virtuvė, Miegamasis, Koridorius, Garažas, and others.
+description: Control lights in the home by room or area. Use when asked to turn on/off, dim, brighten, set brightness, or check the state of lights. Handles all rooms including Darbo kambaris, Dukros/Barboros kambaris, Alexo/Sūnaus kambaris, Svetainė, Virtuvė, Tėvų miegamasis, Koridorius, Garažas, Skalbykla, and others.
 ---
 
 Use this skill to control and query lights throughout the home.
@@ -11,17 +11,16 @@ Map user input to the canonical room name before searching:
 
 | User may say | Canonical name |
 |---|---|
-| darbo, office, work room | Darbo kambaris / darbo kamb |
-| dukros, daughter | Dukros kambaris / dukros kamb |
-| sunaus, sūnaus, son | Sūnaus kambaris / sunaus kamb |
+| darbo, office, work room | Darbo kambaris |
+| dukros, daughter, barboros, barbora | Dukros / Barboros kambaris |
+| sunaus, sūnaus, son, alex, alexo | Alexo / Sūnaus kambaris |
 | svetaine, svetainė, living room, lounge | Svetainė / svetaine |
 | virtuve, virtuvė, kitchen | Virtuvė / virtuve |
-| miegamasis, bedroom, parents bedroom | Miegamasis |
+| miegamasis, tevu miegamasis, tėvų miegamasis, bedroom, parents bedroom | Tėvų miegamasis |
 | koridorius, corridor, hallway | Koridorius |
 | garazas, garažas, garage | Garažas |
-| barboros, barbora | Barboros kambaris |
-| alex | Alex kambaris |
-| tamburas, tambūras, entrance | Tambūras |
+| skalbykla, laundry | Skalbykla |
+| wc, mazas wc, small wc, toilet | WC mažas |
 | lauko, outdoor, outside | Lauko (outdoor lights) |
 
 ## Workflow

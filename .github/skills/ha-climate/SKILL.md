@@ -16,12 +16,10 @@ The home has two climate systems:
 | Room | Thermostat name |
 |---|---|
 | Darbo kambaris (office) | Darbo / Darbo kambarys |
-| Dukros kambaris (daughter) | Vaikų kambarys 1 (dukros) |
+| Dukros / Barboros kambaris (daughter) | Vaikų kambarys 1 (dukros) |
 | Svetainė (living room) | Svetaine / Svetainė |
-| Miegamasis (bedroom) | Tevu / Miegamasis |
-| Tambūras (entrance) | Tambūras |
-| Barbora's room | Barbora |
-| Alex's room | Alex |
+| Tėvų miegamasis (parents' bedroom) | Tevu / Miegamasis |
+| Barbora's / son's room | Barbora / Alex |
 
 ## Workflow
 
