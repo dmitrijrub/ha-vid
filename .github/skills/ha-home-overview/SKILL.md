@@ -13,7 +13,7 @@ The home has the following rooms (Lithuanian names with English equivalents):
 - **Darbo kambaris** (office/work room) — upper right wing
 - **Tėvų vonia** (parents' bathroom) — small room, upper right
 - **Tėvų miegamasis** (parents' bedroom) — large room, upper right
-- **Koridorius** (corridor/hallway) — left vertical strip
+- **Koridorius / Tambūras** (corridor / entrance hall) — left vertical strip
 - **Garažas** (garage) — lower left
 - **Skalbykla** (laundry room) — lower left, beside garage
 - **WC mažas** (small WC/toilet) — lower centre

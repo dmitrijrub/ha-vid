@@ -17,7 +17,7 @@ Map user input to the canonical room name before searching:
 | svetaine, svetainė, living room, lounge | Svetainė / svetaine |
 | virtuve, virtuvė, kitchen | Virtuvė / virtuve |
 | miegamasis, tevu miegamasis, tėvų miegamasis, bedroom, parents bedroom | Tėvų miegamasis |
-| koridorius, corridor, hallway | Koridorius |
+| koridorius, corridor, hallway, tamburas, tambūras, entrance | Koridorius / Tambūras |
 | garazas, garažas, garage | Garažas |
 | skalbykla, laundry | Skalbykla |
 | wc, mazas wc, small wc, toilet | WC mažas |
